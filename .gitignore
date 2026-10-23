@@ -1,0 +1,7 @@
+# Local DDEV environment
+.ddev/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
